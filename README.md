@@ -43,3 +43,7 @@ ipython kernel install --name pfia_2024 --user
 
 
 ## Run
+
+```shell
+juptyer notebook
+```
