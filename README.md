@@ -2,7 +2,11 @@
 
 ## Open with colab
 
-AAW: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mileem/PFIA_2024/blob/main/src/fatigue_material_AAW.ipynb)
+Fichier à compléter: Correction AAW: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mileem/PFIA_2024/blob/main/src/fatigue_material.ipynb)
+
+Correction AAW: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mileem/PFIA_2024/blob/main/src/fatigue_material_AAW.ipynb)
+
+Correction Steel WIRE: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mileem/PFIA_2024/blob/main/src/fatigue_material_WIRE.ipynb)
 
 ## Prerequities
 ### Install miniconda
