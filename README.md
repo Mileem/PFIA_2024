@@ -1,5 +1,9 @@
 #PFIA 2024
 
+## Open with colab
+
+AAW: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mileem/PFIA_2024/blob/main/src/fatigue_material_AAW.ipynb)
+
 ## Prerequities
 ### Install miniconda
 
